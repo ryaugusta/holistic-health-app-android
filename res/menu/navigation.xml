@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_mystack"
+        android:icon="@drawable/if_stack"
+        android:title="@string/title_mystack" />
+
+    <item
+        android:id="@+id/navigation_vitamin"
+        android:icon="@drawable/if_vitamin"
+        android:title="@string/title_vitamins" />
+
+    <item
+        android:id="@+id/navigation_supplement"
+        android:icon="@drawable/if_supplement"
+        android:title="@string/title_supplements" />
+
+</menu>

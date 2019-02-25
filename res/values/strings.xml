@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HoisticHealthApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_vitamins">Vitamins</string>
+    <string name="title_supplements">Supplements</string>
+    <string name="my_stack">My Stack</string>
+    <string name="btn_add">Add</string>
+    <string name="et_info">Info</string>
+    <string name="et_name">Name</string>
+    <string name="title_mystack">My Stack</string>
+    <string name="btn_home">Home</string>
+    <string name="tv_mystack">My Stack</string>
+    <string name="hint_search">Search...</string>
+    <string name="et_search">Search...</string>
+    <string name="title_hint">name this list?..</string>
+</resources>
